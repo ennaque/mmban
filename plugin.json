@@ -1,0 +1,8 @@
+{
+  "id": "com.github.mmban",
+  "name": "MM-ban",
+  "server": {
+    "executable": "plugin.sh"
+  },
+  "version": "1.0.0"
+}
